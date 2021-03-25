@@ -19,3 +19,10 @@ The content of the notes will be written in Markdown, and a convenient Markdown 
 2. Run `npm install`
 3. Run `npm run start`
 4. Visit <http://localhost:8000/> to see a "It works!" message
+
+## ------- frontend -----
+
+npx create-react-app personal-diary-frontend
+cd personal-diary-frontend
+npm start
+
